@@ -5,9 +5,9 @@ int main() {
     int n=5;
     for(int i=n;i>0;i--){
         for(int j=i;j>0;j--){
-            printf("*");
+            cout<<"*";
     }
-    printf("\n");
+    cout<<"\n";
     }
     return 0;
 }
